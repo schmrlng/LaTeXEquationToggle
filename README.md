@@ -22,4 +22,5 @@ Clone this repository into:
 * OS X: ```~/Library/Application Support/Sublime Text 3/Packages/LatexEquationToggle```
 * Windows: ```%APPDATA%\Sublime Text 3\Packages\LatexEquationToggle```
 * Linux: ```~/.config/sublime-text-3/Packages/LatexEquationToggle```
+
 If anyone other than me ever uses this package (or even reads this sentence), I'll consider putting it on https://packagecontrol.io/. A bit of a chicken-and-egg thing perhaps.
