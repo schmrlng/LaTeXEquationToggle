@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+shift+c"], "command": "latexequationtoggle",
+      "context":  [{"key": "selector", "operator": "equal", "operand": "text.tex.latex"}]}
+]
